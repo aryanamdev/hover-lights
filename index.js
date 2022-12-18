@@ -1,6 +1,11 @@
 let container = document.querySelector(".container");
 let squares = 560 - 60;
 
+// let heading = document.querySelector("h1");
+// heading.textContent = "hover!";
+// heading.classList.add("heading");
+// document.body.appendChild(heading);
+
 for (let i = 0; i < squares; i++) {
   let square = document.createElement("div");
   square.classList.add("square");

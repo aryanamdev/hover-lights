@@ -6,6 +6,13 @@ body {
   height: 100vh;
   overflow: hidden;
   margin: 0;
+  flex-direction: column;
+}
+
+.heading{
+    color: white;
+    margin-bottom: 1.5rem;
+    font-size: 2rem;
 }
 
 .container {
