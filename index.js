@@ -1,5 +1,5 @@
 let container = document.querySelector(".container");
-let squares = 560 - 65;
+let squares = 560 - 60;
 
 for (let i = 0; i < squares; i++) {
   let square = document.createElement("div");
