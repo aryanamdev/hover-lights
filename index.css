@@ -9,10 +9,10 @@ body {
   flex-direction: column;
 }
 
-.heading{
-    color: white;
-    margin-bottom: 1.5rem;
-    font-size: 2rem;
+.heading {
+  color: white;
+  margin-bottom: 1.5rem;
+  font-size: 2rem;
 }
 
 .container {
@@ -29,6 +29,7 @@ body {
   width: 16px;
   transition: 1.5s ease;
   margin: 2px;
+  cursor: pointer;
 }
 
 .square:hover {
