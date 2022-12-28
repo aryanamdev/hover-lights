@@ -14,9 +14,9 @@
     [On Hover Lights](https://hover-lights.vercel.app/)
 
 
- * ## Overview
+ <!-- * ## Overview
 
-![alt text](HoverLightings.png)
+![alt text](HoverLightings.png) -->
 
 * ## Features:
     1. Generated Elements using Hydration.
