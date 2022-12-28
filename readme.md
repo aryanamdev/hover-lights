@@ -21,7 +21,7 @@
 * ## Features:
     1. Generated Elements using Hydration.
     2. Generated only light color HEX values.
-    3. While hovering displays random colors with glowing UI.
+    3. While hovering displays random colors with glowing UI
     
 
 
