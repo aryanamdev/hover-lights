@@ -16,7 +16,7 @@
 
  * ## Overview
 
-![alt text](Hover%20Lightings.png)
+![alt text](HoverLightings.png)
 
 * ## Features:
     1. Generated Elements using Hydration.
